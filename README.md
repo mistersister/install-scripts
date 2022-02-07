@@ -1,2 +1,2 @@
 # install-scripts
-Scritps to reinstall different distributions
+Scritps to perform a post-install on different distributions
