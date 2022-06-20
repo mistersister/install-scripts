@@ -68,6 +68,6 @@ ln -s /mnt/datos/portables/cassandra-4.0.1/bin/cqlsh.py /usr/bin/cqlsh
 cd /opt
 git clone https://aur.archlinux.org/yay-bin.git
 cd yay-bin
-makepkg -si
+su cbarrabes makepkg -si
 cd ..
 rm -f yay-bin
